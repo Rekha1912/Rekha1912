@@ -3,4 +3,4 @@
 - 🌱 I’m currently Full Stack Web Developer
 - 💞️ I’m looking for job opportunities
 - 📫 You can reach me on rekha.0019s@gmail.com
--     LinkedIn -https://www.linkedin.com/in/rekha-nadaradjamourty/
+-  LinkedIn - https://www.linkedin.com/in/swarnarekha/
